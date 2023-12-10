@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: December 11 - 14, 2023
+- Facilitator: @cloudcosmonaut
 
 ## Class Resources
 

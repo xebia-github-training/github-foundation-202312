@@ -1,6 +1,7 @@
 # Day 1: Getting Started with GitHub Flow
 
 ### In Class Activities:
+I made some changes here
 - Work in the class repository together, a slide deck of images and captions.
 - Talk about [GitHub Flow](https://guides.github.com/introduction/flow/).
 - Take a brief tour of what a GitHub repository looks like.

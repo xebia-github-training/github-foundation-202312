@@ -7,3 +7,5 @@ Caption here
 
 ![defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
+
+This is SPARTA!
